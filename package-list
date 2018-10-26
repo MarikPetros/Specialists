@@ -1,0 +1,8 @@
+com.example.user.specialists.data_provider
+com.example.user.specialists.fragment
+com.example.user.specialists.fragment.adapter
+com.example.user.specialists.fragment.adapter.view_holder
+com.example.user.specialists.model
+com.example.user.specialists.repozitory
+com.example.user.specialists.ui.main
+com.example.user.specialists.utils
